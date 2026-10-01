@@ -1,4 +1,4 @@
-# Lab 3 - The Bowling Game Kata with a Branching Workflow
+# Lab 2 - The Bowling Game Kata with a Branching Workflow
 
 In this lab, we will look at a simple software engineering development practice, using TDD (Test Driven Design, which we will more formally introduce during out discussion of testing in a few weeks).  With TDD, the goal is to:
 
